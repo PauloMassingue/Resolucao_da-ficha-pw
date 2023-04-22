@@ -1,0 +1,29 @@
+div {
+    width: 25vw;
+    height: 35vh;
+    margin: auto;
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+input, select, button {
+    padding: 0.5rem;
+    font-size: 1.3rem;
+}
+
+textarea {
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    height: 7rem;
+}
+
+#data {
+    height: 10rem;
+    padding: 1.3rem;
+}
+
+.verde {
+    border-color: green;
+}
