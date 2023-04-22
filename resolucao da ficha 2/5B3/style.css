@@ -1,0 +1,18 @@
+.saida div {
+  display: inline-block;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+main {
+  margin: 100px auto;
+  width: fit-content;
+  height: fit-content;
+}
+
+input {
+  margin-bottom: 20px;
+}

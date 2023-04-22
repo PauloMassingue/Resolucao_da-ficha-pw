@@ -1,0 +1,12 @@
+div {
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  border: 1px solid;
+  padding: 10px;
+}
+
+input {
+  display: block;
+  margin: 20px 0;
+}

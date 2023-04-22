@@ -1,0 +1,43 @@
+main {
+    width: 300px;
+    height: fit-content;
+    margin: 100px auto;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+button{
+    display: block;
+    margin: 25px auto 0 auto;
+}
+
+
+input{
+    border: 3px solid;
+    border-radius: 5px;
+    display: block;
+}
+
+input[type=radio] {
+    display: inline-block;
+}
+
+.msg{
+    margin: 0;
+    color: #ff0000;
+    display: none;
+}
+
+.sx p{
+margin: 0;
+display: inline-block;
+}
+
+.msgCompleto {
+    color: #008000;
+    display: none;
+}
+.prv{
+    margin-top: 30px;
+}
